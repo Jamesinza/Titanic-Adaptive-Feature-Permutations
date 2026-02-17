@@ -61,7 +61,7 @@ Results:
 - Learned permutations converge and stabilize
 - Regularization prevents overfitting despite long training
 
-This confirms feasibility — not optimality.
+This confirms feasibility not optimality.
 
 ---
 
