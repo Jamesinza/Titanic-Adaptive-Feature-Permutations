@@ -64,6 +64,3 @@ Results:
 This confirms feasibility not optimality.
 
 ---
-
-## 📁 Project Structure
-
